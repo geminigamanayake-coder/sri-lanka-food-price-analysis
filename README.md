@@ -3,6 +3,8 @@
 ## Overview
 This project analyzes **food price trends in Sri Lanka** using R programming and visualizes the findings through an interactive **R Shiny dashboard**. The analysis provides insights into commodity price patterns, regional differences, and price volatility across the country, supporting data-driven decision-making for policy planning and market monitoring.
 
+A video explaining the project can be found [here](https://drive.google.com/file/d/1As_E8vZg6cPzspc1PFzTnWQRz4kl6nfs/view?usp=drive_link).
+
 ---
 
 ## Dataset
@@ -97,4 +99,5 @@ geminigamanayake@gmail.com
 ---
 
 ## License
-This project is for **educational purposes only**.  
+This project is for **educational purposes only**.
+
