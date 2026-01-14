@@ -1,4 +1,4 @@
-# 🍚 Sri Lankan Food Prices Analysis
+# Sri Lankan Food Prices Analysis
 
 ## Overview
 This project analyzes **food price trends in Sri Lanka** using R programming and visualizes the findings through an interactive **R Shiny dashboard**. The analysis provides insights into commodity price patterns, regional differences, and price volatility across the country, supporting data-driven decision-making for policy planning and market monitoring.
